@@ -1,0 +1,14 @@
+https://alexgyver.ru/lessons/eeprom/
+http://arduino.ru/Reference/Library/EERPOM/write
+http://arduino.ru/Reference/Library/EERPOM/read
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+данные о циклах перезаписи
+
+https://narodstream.ru/avr-urok-22-izuchaem-acp-chast-2/
+https://narodstream.ru/avr-urok-22-izuchaem-acp-chast-1/
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+данные о ADC
+
+https://radioparty.ru/programming/avr/c/717-lesson-servo-privod
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+правление сервоприводом
